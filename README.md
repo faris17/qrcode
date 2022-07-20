@@ -1,4 +1,4 @@
-<h1>Install QRCode at Laravel 9</h1>
+<h1>Install QRCode in Laravel 9</h1>
 
 to install package:
 composer require simplesoftwareio/simple-qrcode
